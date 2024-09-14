@@ -110,6 +110,7 @@ footer {
 }
 
 .pizza__card {
+  background: none;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -118,23 +119,21 @@ footer {
   padding: 20px;
   gap: 15px;
   border-radius: 10px;
-  background-image: linear-gradient(
-    to right top,
-    #a07735,
-    #ba6152,
-    #b5597f,
-    #8a64a7,
-    #2d73b5
-  );
 }
 
 .pizza__card-p {
+  background: none;
   font-size: 1.2rem;
   font-weight: 600;
   width: 80%;
 }
 
+.pizza__span {
+background: none;
+}
+
 .pizza__img {
+  background: none;
   width: 100%;
   border: 2px solid black;
   cursor: pointer;
