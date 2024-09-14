@@ -44,4 +44,6 @@ const pizzas = [
     ingredientes: ["Muzzarella", "Tomate", "Anana"],
     imagen: "./img/anana.png",
   },
+
+  
 ];
